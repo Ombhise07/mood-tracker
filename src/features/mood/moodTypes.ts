@@ -1,5 +1,5 @@
 // It is a way to define set of named constants
-enum Mood{
+export enum Mood{
     Happy = "HAPPY",
     Sad = "SAD",
     Angry = "ANGRY",
